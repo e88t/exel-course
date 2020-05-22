@@ -1,0 +1,10 @@
+Webpack()
+    Babel
+    scss
+    EsLint
+    2 Mod
+        dev mod
+         devserver, EsLint, SourceMap, Not Minified Js & css
+        prod mod
+            minified code
+Git
